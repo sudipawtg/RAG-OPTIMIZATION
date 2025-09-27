@@ -6,3 +6,14 @@ ipykernel
 ipywidgets
 scikit-learn
 google-genai
+langchain_community
+tiktoken
+langchain-openai
+langchainhub
+langchain_chroma
+langchain
+langgraph
+tavily-python
+pypdf
+langchain_google
+langchain-google-genai
